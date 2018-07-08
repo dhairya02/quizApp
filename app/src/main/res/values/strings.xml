@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">quizApp</string>
+    <string name="yourscore">Your Score:-</string>
+    <string name="question1">1. Whats the name of the building in which Iron man lives?</string>
+    <string name="question1_choice1">Spidey</string>
+    <string name="question1_choice2">Avengers</string>
+    <string name="question1_choice3">Stark Tower</string>
+    <string name="question2">2. Marvel oldest writer who does cameo in all marvel movies?</string>
+    <string name="question3">3. Name two Marvel Characters</string>
+    <string name="question3_choice1">The Hulk</string>
+    <string name="question3_choice2">Iron Man</string>
+    <string name="question3_choice3">Superman</string>
+    <string name="question3_choice4">Batman</string>
+    <string name="question4">4. A marvel superhero which uses gravity as his power and is now featured in marvel agents of shield by General talbot?</string>
+    <string name="submit_answers">Submit Answers</string>
+</resources>
